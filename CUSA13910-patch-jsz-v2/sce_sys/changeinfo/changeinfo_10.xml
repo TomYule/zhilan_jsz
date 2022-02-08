@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.05">
+    <![CDATA[・已對應可記錄動作並利用網路發布的「殘影」。
+・已追加變更玩家外觀的「改變外型」。
+・已追加「再戰稀世強者」。
+・已追加「連戰稀世強者」。
+・修正其他錯誤。]]>
+  </changes>
+  <changes app_ver="01.04">
+    <![CDATA[・改善遊戲平衡。]]>
+  </changes>
+  <changes app_ver="01.03">
+    <![CDATA[・改善遊戲平衡。
+・改善遊戲效能與使用者體驗。
+・修正遊戲錯誤。]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[・改善遊戲平衡。
+・修正遊戲錯誤。]]>
+  </changes>
+  <changes app_ver="01.01">
+    <![CDATA[・改善遊戲平衡。
+・改善遊戲效能與使用者體驗。
+・修正遊戲錯誤。]]>
+  </changes>
+</changeinfo>

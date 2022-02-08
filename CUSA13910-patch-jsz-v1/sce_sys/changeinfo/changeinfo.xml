@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.05">
+    <![CDATA[ - Added "Remnant" network feature, which allows recording and sharing player actions
+ - Added "Change Form" feature, which allows players to change their appearance
+ - Added new feature, "Reflection of Strength"
+ - Added new feature,  "Gauntlet of Strength"
+ - Various bug fixes]]>
+  </changes>
+  <changes app_ver="01.04">
+    <![CDATA[- Made improvements to game balance]]>
+  </changes>
+  <changes app_ver="01.03">
+    <![CDATA[- Made improvements to game balance
+- Made usability and performance improvements
+- Made a number of bug fixes]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[- Made improvements to game balance
+- Made a number of bug fixes]]>
+  </changes>
+  <changes app_ver="01.01">
+    <![CDATA[- Made improvements to game balance
+- Made usability and performance improvements
+- Made a number of bug fixes]]>
+  </changes>
+</changeinfo>

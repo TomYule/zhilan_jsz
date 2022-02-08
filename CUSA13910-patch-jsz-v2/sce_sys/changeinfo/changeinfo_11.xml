@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<changeinfo>
+  <changes app_ver="01.05">
+    <![CDATA[·追加了可记录角色行动并发布至网络的“残影”。
+·追加了可改变玩家外观的“改变外形”。
+·追加了“再战稀世强者”。
+·追加了“连战稀世强者”。
+·修正了其他若干问题。 ]]>
+  </changes>
+  <changes app_ver="01.04">
+    <![CDATA[·优化了游戏平衡。]]>
+  </changes>
+  <changes app_ver="01.03">
+    <![CDATA[·优化了游戏平衡。
+·优化了游戏性能以及可用性。
+·修正了若干错误。]]>
+  </changes>
+  <changes app_ver="01.02">
+    <![CDATA[·优化了游戏平衡。
+·修正了若干错误。]]>
+  </changes>
+  <changes app_ver="01.01">
+    <![CDATA[·优化了游戏平衡。
+·优化了游戏性能以及可用性。
+·修正了若干错误。]]>
+  </changes>
+</changeinfo>
